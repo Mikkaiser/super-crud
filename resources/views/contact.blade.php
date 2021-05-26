@@ -1,0 +1,1 @@
+<h1>This's a contact view!</h1>
